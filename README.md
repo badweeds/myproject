@@ -1,4 +1,4 @@
-Members: 
+##Members: 
 
-Tom Rapliza
-Alver Bituin
+Tom Rapliza/
+Alver Bituin/
